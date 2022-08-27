@@ -21,7 +21,7 @@ const origin = (typeof window === 'undefined')? '' : window.location.origin
 
             <meta property="og:title" content={ `Información sobre ${ title }` } />
             <meta property="og:description" content={ `Esta es la página sobre ${ title }` } />
-            <meta property="og:image" content={ `${ origin }/imgs/pokemon.png` } />
+            <meta property="og:image" content={ `${ origin }/imgs/pokemon2.png` } />
         </Head>
 
         <Navbar />
